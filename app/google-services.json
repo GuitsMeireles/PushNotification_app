@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "345794508784",
+    "project_id": "pushapp-e4557",
+    "storage_bucket": "pushapp-e4557.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345794508784:android:432d18e1937102cf848f35",
+        "android_client_info": {
+          "package_name": "com.testenotificao"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0YjjA2ocAWfwnhUGm1CShh5b2AM8yqLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
